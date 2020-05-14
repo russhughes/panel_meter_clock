@@ -1,0 +1,7 @@
+*.gcode
+*~
+.vscode
+.DS_Store
+.AppleDouble
+.LSOverri
+docs/build
